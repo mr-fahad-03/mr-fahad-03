@@ -1,5 +1,5 @@
 <!-- 🔥 Animated neon header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff006e,50:8338ec,100:3a86ff&height=260&section=header&text=Muhammad%20Fahad&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=⚡%20Web%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20JavaScript%20⚡&descSize=20&descAlignY=62&stroke=ffffff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:8338ec,100:3a86ff&height=230&section=header&text=Muhammad%20Fahad&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Web%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20JavaScript&descSize=20&descAlignY=56" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/mr-fahad-03">
@@ -18,27 +18,19 @@
   <img src="https://komarev.com/ghpvc/?username=mr-fahad-03&label=👀%20Profile%20Views&color=8338ec&style=for-the-badge" />
 </p>
 
-<!-- ✨ Two-column intro -->
-<table align="center" border="0">
-<tr>
-<td width="55%" valign="middle">
+<h2 align="center">🚀 Who am I?</h2>
 
-### 🚀 Who am I?
+<p align="center">
+  I'm a <b>Web Developer from Faisalabad, Pakistan 🇵🇰</b><br/>
+  who turns ideas into fast, beautiful, interactive websites.
+</p>
 
-I'm a **Web Developer from Faisalabad, Pakistan 🇵🇰** who loves turning ideas into fast, beautiful, interactive websites.
-
-- ⚛️ Building with **React & JavaScript**
-- 🌱 Leveling up in **Backend (Node.js / Express)**
-- 🧪 Bug hunter — I test apps until they're bulletproof
-- 💼 **Open to freelance & remote work**
-- ⚡ Fun fact: I debug faster with chai ☕
-
-</td>
-<td width="45%" align="center">
-  <img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" width="100%"/>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/⚛️_Building_with-React_&_JavaScript-ff006e?style=flat-square&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/🌱_Learning-Node.js_&_Express-8338ec?style=flat-square&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/🧪_Skilled_in-Web_App_Testing-3a86ff?style=flat-square&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/💼_Status-Open_for_Freelance-00c853?style=flat-square&labelColor=1a1b27"/>
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
