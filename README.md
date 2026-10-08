@@ -1,32 +1,85 @@
+<!-- Header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Fahad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20React%20%7C%20JavaScript&descAlignY=58&descSize=18" width="100%"/>
 
-![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
-
-<h1 align="center">Hi 👋, I'm Muhammad Fahad</h1>
-<h3 align="center">A passionate Web developer from Pakistan</h3>
-
-<img align="right" alt="Coding" width="400" src="https://prospacemarketing.com/wp-content/uploads/2022/02/dubai-web-designing-company.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-fahad-03&label=Profile%20views&color=0e75b6&style=flat" alt="mr-fahad-03" /> </p>
-
-- 🌱 I’m currently learning **ReactJS , BackEnd**
-
-- 💬 Ask me about **React , Javascript**
-
-- 📫 How to reach me **mdfahadzulfiqar@gmail.com**
-
-- ⚡ Fun fact **Enjoy Creating New Systems 🙂**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-fahad-4aa835320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-fahad-4aa835320/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mr_fahad_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr_fahad_03/" height="30" width="40" /></a>
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://github.com/mr-fahad-03">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Fahad+%F0%9F%91%8B;Frontend+Developer+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;React+%E2%80%A2+JavaScript+%E2%80%A2+Node.js;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- Social badges -->
+<p align="center">
+  <a href="https://mr-fahad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-fahad-4aa835320"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mdfahadzulfiqar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/mr_fahad_03"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-fahad-03&show_icons=true&locale=en&layout=compact" alt="mr-fahad-03" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mr-fahad-03&label=Profile%20Views&color=38bdf8&style=flat-square" alt="profile views"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-fahad-03&show_icons=true&locale=en" alt="mr-fahad-03" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-fahad-03&" alt="mr-fahad-03" /></p>
+## 👨‍💻 About Me
+
+```js
+const fahad = {
+  location: "Faisalabad, Pakistan 🇵🇰",
+  role: "Web Developer",
+  currentlyLearning: ["React.js", "Backend Development"],
+  askMeAbout: ["React", "JavaScript", "Frontend"],
+  funFact: "I enjoy breaking things to make them better 🧪",
+  reachMe: "mdfahadzulfiqar@gmail.com",
+};
+```
+
+- 🌱 Currently leveling up in **React.js** and **Backend Development**
+- 🧪 Experienced in **testing web apps** and finding bugs before users do
+- 🤝 Open to **freelance projects** and collaborations
+- ⚡ I love building clean, fast, responsive websites
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,php,cpp&perline=10" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vercel,vscode,figma,postman&perline=10" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mr-fahad-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-fahad-03&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mr-fahad-03&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-fahad-03&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mr-fahad-03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ Thanks for visiting! Feel free to check out my repositories ⭐</b>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
