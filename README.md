@@ -1,50 +1,145 @@
-<!-- 🔥 Animated neon header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:8338ec,100:3a86ff&height=230&section=header&text=Muhammad%20Fahad&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Web%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20JavaScript&descSize=20&descAlignY=56" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:8338ec,100:3a86ff&height=230&section=header&text=Muhammad%20Fahad&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Senior%20Full-Stack%20Developer%20%E2%80%A2%206%2B%20Years%20Shipping%20Production%20Apps&descSize=18&descAlignY=56" width="100%"/>
 
 <p align="center">
-  <a href="https://github.com/mr-fahad-03">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=FF006E&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Fahad+%F0%9F%91%8B;I+build+websites+that+feel+alive+%E2%9C%A8;React+%F0%9F%92%99+JavaScript+%F0%9F%92%9B+Node.js+%F0%9F%92%9A;I+break+bugs+before+they+break+you+%F0%9F%90%9B%F0%9F%94%A8;Open+for+freelance+work+%F0%9F%9A%80" />
+  <a href="https://mdfahadz.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=FF006E&center=true&vCenter=true&width=780&lines=I+create+modern+web+applications+%E2%9A%A1;I+turn+ideas+into+working+websites+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+NestJS;From+database+schema+to+pixels+%F0%9F%8E%AF;Open+to+remote+roles+worldwide+%F0%9F%8C%8D" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://mr-fahad.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-ff006e?style=for-the-badge&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-fahad-4aa835320"><img src="https://img.shields.io/badge/LinkedIn-8338ec?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mdfahadzulfiqar@gmail.com"><img src="https://img.shields.io/badge/Gmail-3a86ff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/mr_fahad_03"><img src="https://img.shields.io/badge/Instagram-ff006e?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://mdfahadz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ff006e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mr-fahad"><img src="https://img.shields.io/badge/LinkedIn-8338ec?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mdfahadzulfiqar@gmail.com"><img src="https://img.shields.io/badge/Email-3a86ff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.upwork.com/"><img src="https://img.shields.io/badge/Upwork_Top_Rated-14a800?style=for-the-badge&logo=upwork&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mr-fahad-03&label=👀%20Profile%20Views&color=8338ec&style=for-the-badge" />
-</p>
-
-<h2 align="center">🚀 Who am I?</h2>
-
-<p align="center">
-  I'm a <b>Web Developer from Faisalabad, Pakistan 🇵🇰</b><br/>
-  who turns ideas into fast, beautiful, interactive websites.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⚛️_Building_with-React_&_JavaScript-ff006e?style=flat-square&labelColor=1a1b27"/>
-  <img src="https://img.shields.io/badge/🌱_Learning-Node.js_&_Express-8338ec?style=flat-square&labelColor=1a1b27"/>
-  <img src="https://img.shields.io/badge/🧪_Skilled_in-Web_App_Testing-3a86ff?style=flat-square&labelColor=1a1b27"/>
-  <img src="https://img.shields.io/badge/💼_Status-Open_for_Freelance-00c853?style=flat-square&labelColor=1a1b27"/>
+  <img src="https://komarev.com/ghpvc/?username=mr-fahad-03&label=Profile%20Views&color=8338ec&style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-6%2B_Years-ff006e?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open_to-Remote_%7C_UK_%7C_US_%7C_EU-3a86ff?style=flat-square"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🧰 My Arsenal
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php,cpp&perline=8&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,postman&perline=8&theme=dark" />
+Hello! I'm **Fahad**, a full-stack developer from **Faisalabad, Pakistan 🇵🇰**. I started in 2020 building REST APIs in Node.js at a cloud startup, and quickly found that what I enjoy most is **owning a product from the database schema to the pixels**.
+
+Six years on, I've shipped production web applications across the JavaScript ecosystem, including a **multi-region e-commerce marketplace**, a **bilingual B2B storefront**, and a **multilingual knowledge platform**.
+
+- 💼 **Senior Web Developer** at Tech Solutionor
+- 🌎 **Part-time Full Stack Engineer** at Best Super Cleaning (async with a US team)
+- ⭐ **Top Rated freelancer** on Upwork
+- ✈️ Open to **remote roles worldwide** and **relocation to the UK, US or EU** with sponsorship
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 🧰 Tech Stack
+
+**🎨 Front end**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,flutter&theme=dark" />
+</p>
+
+**⚙️ Back end**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python&theme=dark" />
+</p>
+
+**🗄️ Data**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma&theme=dark" />
+</p>
+
+**☁️ Infrastructure**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,githubactions&theme=dark" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 📈 My GitHub Power Level
+## 🚀 Featured Projects
+
+### 🛒 [Grabatoz](https://grabatoz.ae/)
+Multi-region e-commerce marketplace trading across **five countries**. Built the catalogue, search and filtering, cart and checkout, with per-market pricing and currency handling.
+
+![](https://img.shields.io/badge/E--commerce-ff006e?style=flat-square) ![](https://img.shields.io/badge/5_Markets-8338ec?style=flat-square) ![](https://img.shields.io/badge/Multi--currency-3a86ff?style=flat-square) ![](https://img.shields.io/badge/Checkout-1a1b27?style=flat-square)
+
+### 🏢 [Seen Alif](https://seenalif.com/)
+B2B technology storefront for the UAE market: POS systems, printers, security hardware and software. Built the catalogue, product search, wishlist and customer accounts, served in **English and Arabic**.
+
+![](https://img.shields.io/badge/B2B_Storefront-ff006e?style=flat-square) ![](https://img.shields.io/badge/English_%2F_Arabic-8338ec?style=flat-square) ![](https://img.shields.io/badge/Wishlist-3a86ff?style=flat-square) ![](https://img.shields.io/badge/Accounts-1a1b27?style=flat-square)
+
+### 📚 [Ask Your Mufti](https://askyourmufti.com/)
+Multilingual knowledge platform where users submit questions and receive scholar-reviewed answers. Built the localisation layer plus the moderated submission, review and publishing workflow.
+
+![](https://img.shields.io/badge/Multilingual-ff006e?style=flat-square) ![](https://img.shields.io/badge/Moderation-8338ec?style=flat-square) ![](https://img.shields.io/badge/Publishing-3a86ff?style=flat-square) ![](https://img.shields.io/badge/Q%26A_Platform-1a1b27?style=flat-square)
+
+### ✈️ [AUS Visa Experts](https://ausvisaexperts.com.au/)
+Client platform for an Australian immigration consultancy. Built the service and eligibility pages with the enquiry and lead-capture flow feeding the firm's consultation pipeline.
+
+![](https://img.shields.io/badge/Consultancy-ff006e?style=flat-square) ![](https://img.shields.io/badge/Lead_Capture-8338ec?style=flat-square) ![](https://img.shields.io/badge/Eligibility-3a86ff?style=flat-square) ![](https://img.shields.io/badge/Enquiry_Flow-1a1b27?style=flat-square)
+
+<p align="center">
+  <a href="https://mdfahadz.vercel.app/#work"><img src="https://img.shields.io/badge/See_all_my_work_→-ff006e?style=for-the-badge"/></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 💼 Where I've Worked
+
+<details open>
+<summary><b>🟢 Senior Web Developer · Tech Solutionor</b> · <i>Jun 2025 – Present · Faisalabad</i></summary>
+<br/>
+
+- Lead design and development of client web applications, from architecture through delivery
+- Review code and mentor junior developers across the team's projects
+- Own the full delivery cycle: requirements, implementation, testing and deployment
+</details>
+
+<details>
+<summary><b>🟢 Full Stack Engineer · Best Super Cleaning</b> · <i>Jul 2026 – Present · Remote (US) · Part-time</i></summary>
+<br/>
+
+- Build and maintain the customer-facing platform across front end, API layer and database
+- Own features end to end, from specification through code review and deployment
+- Work asynchronously with a US-based team across a nine-hour time difference
+</details>
+
+<details>
+<summary><b>🟢 Independent Full-Stack Developer · Self-employed</b> · <i>Jan 2024 – Present · Freelance</i></summary>
+<br/>
+
+- Scope, build and ship web apps for international clients in e-commerce, consulting and content
+- Hold **Top Rated** status on Upwork through client ratings and on-time delivery
+</details>
+
+<details>
+<summary><b>⚪ Full Stack Web & App Developer · Muhammad Labs LTD</b> · <i>Dec 2025 – Feb 2026 · Contract</i></summary>
+<br/>
+
+- Contributed to end-to-end development of web and mobile apps, covering client interfaces and back-end services
+</details>
+
+<details>
+<summary><b>⚪ Full Stack Developer · FA Tech & Solutions</b> · <i>Oct 2021 – Dec 2023 · Faisalabad</i></summary>
+<br/>
+
+- Built and shipped client web applications using React, Node.js and relational databases
+- Worked the full delivery cycle: requirements, implementation, testing and deployment
+</details>
+
+<details>
+<summary><b>⚪ Backend Engineer · Gamica Cloud</b> · <i>Aug 2020 – Sep 2021 · Faisalabad</i></summary>
+<br/>
+
+- Developed REST APIs and server-side services in Node.js and Express
+- Designed database schemas and wrote queries against MySQL and MongoDB
+</details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=mr-fahad-03&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
@@ -59,14 +154,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-fahad-03&bg_color=141321&color=ff006e&line=8338ec&point=3a86ff&area=true&area_color=8338ec&hide_border=true" width="100%"/>
 </p>
 
-## 🏆 Trophy Shelf
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-fahad-03&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
-
-## 🐍 Watch the Snake Eat My Contributions
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mr-fahad-03/mr-fahad-03/output/github-snake-dark.svg" />
@@ -74,8 +161,17 @@
   </picture>
 </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 📬 What's Next?
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8338EC&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%E2%AD%90;Let's+build+something+awesome+together+%F0%9F%A4%9D" />
+  I'm open to <b>remote full-stack roles worldwide</b> and to <b>relocation to the UK, US or EU</b> with sponsorship.<br/>
+  If you're hiring or have a project in mind, my inbox is open. I'll get back to you!
+</p>
+
+<p align="center">
+  <a href="mailto:mdfahadzulfiqar@gmail.com"><img src="https://img.shields.io/badge/👋_Say_Hello-ff006e?style=for-the-badge"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a86ff,50:8338ec,100:ff006e&height=130&section=footer" width="100%"/>
