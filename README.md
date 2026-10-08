@@ -114,51 +114,27 @@ Client platform for an Australian immigration consultancy. Built the service and
 - Hold **Top Rated** status on Upwork through client ratings and on-time delivery
 </details>
 
-<details>
-<summary><b>⚪ Full Stack Web & App Developer · Muhammad Labs LTD</b> · <i>Dec 2025 – Feb 2026 · Contract</i></summary>
-<br/>
-
-- Contributed to end-to-end development of web and mobile apps, covering client interfaces and back-end services
-</details>
-
-<details>
-<summary><b>⚪ Full Stack Developer · FA Tech & Solutions</b> · <i>Oct 2021 – Dec 2023 · Faisalabad</i></summary>
-<br/>
-
-- Built and shipped client web applications using React, Node.js and relational databases
-- Worked the full delivery cycle: requirements, implementation, testing and deployment
-</details>
-
-<details>
-<summary><b>⚪ Backend Engineer · Gamica Cloud</b> · <i>Aug 2020 – Sep 2021 · Faisalabad</i></summary>
-<br/>
-
-- Developed REST APIs and server-side services in Node.js and Express
-- Designed database schemas and wrote queries against MySQL and MongoDB
-</details>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mr-fahad-03&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-fahad-03&layout=compact&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mr-fahad-03&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff&title_color=ff006e&icon_color=8338ec&text_color=333333&ring_color=ff006e" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-fahad-03&layout=compact&hide_border=true&bg_color=ffffff&title_color=ff006e&text_color=333333" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mr-fahad-03&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mr-fahad-03&hide_border=true&background=FFFFFF&ring=FF006E&fire=FF006E&currStreakNum=8338EC&currStreakLabel=8338EC&sideNums=FF006E&sideLabels=333333&dates=666666&stroke=E5E5E5" />
 </p>
 
+<h3 align="center">📅 Contribution Chart</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-fahad-03&bg_color=141321&color=ff006e&line=8338ec&point=3a86ff&area=true&area_color=8338ec&hide_border=true" width="100%"/>
+  <img src="https://ghchart.rshah.org/8338ec/mr-fahad-03" width="100%" />
 </p>
 
+<h3 align="center">🐍 Snake Eating My Contributions</h3>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mr-fahad-03/mr-fahad-03/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/mr-fahad-03/mr-fahad-03/output/github-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/mr-fahad-03/mr-fahad-03/output/github-snake.svg" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
