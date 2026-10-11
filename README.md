@@ -127,12 +127,7 @@ Client platform for an Australian immigration consultancy. Built the service and
   <img src="https://streak-stats.demolab.com?user=mr-fahad-03&hide_border=true&background=FFFFFF&ring=FF006E&fire=FF006E&currStreakNum=8338EC&currStreakLabel=8338EC&sideNums=FF006E&sideLabels=333333&dates=666666&stroke=E5E5E5" />
 </p>
 
-<h3 align="center">📅 Contribution Chart</h3>
-<p align="center">
-  <img src="https://ghchart.rshah.org/8338ec/mr-fahad-03" width="100%" />
-</p>
-
-<h3 align="center">🐍 Snake Eating My Contributions</h3>
+<h3 align="center">Contribution Devourer 💚</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/mr-fahad-03/mr-fahad-03/output/github-snake.svg" />
 </p>
